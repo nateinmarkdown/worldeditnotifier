@@ -1,0 +1,6 @@
+name: WorldEditNotifier
+version: '${project.version}'
+main: me.nate.worldeditnotifier.Main
+api-version: 1.15
+authors: [ Nate ]
+description: A plugin which notifies admin when a user is using WorlEdit commands!
